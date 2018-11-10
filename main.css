@@ -1,0 +1,29 @@
+body {
+    height: 100%;
+  }
+  .container {
+    width: 100%;
+    background-color: white;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+  .bg {
+    /* The image used */
+    background-image: url("images/gravel.png");
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+  }
+  #masthead {
+    border: 25%;
+  }
+  #mainNav {
+      background-color: antiquewhite;
+  }
+  .navbar a {
+      background-color: #2BBBAD;
+  }
+  
