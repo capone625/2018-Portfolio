@@ -1,5 +1,7 @@
 body {
-    height: 100%;
+    background-image: url("images/gravel.png");
+    height: 720px;
+    width: 100%;
   }
   .container {
     width: 100%;
@@ -11,19 +13,32 @@ body {
 }
   .bg {
     /* The image used */
-    background-image: url("images/gravel.png");
+    
     height: 100%;
     background-position: center;
     background-repeat: no-repeat;
     background-size: cover;
   }
-  #masthead {
+  .masthead {
     border: 25%;
   }
-  #mainNav {
+  .mainNav {
+      margin-bottom: 50px;
       background-color: antiquewhite;
   }
-  .navbar a {
-      background-color: #2BBBAD;
+  
+  #a {
+    background-color: teal;
+     
   }
+  #portfolio {
+    border: 5px;
+    border-color: gray;
+    background-color: bisque;
+    
+  }
+  .row {
+    margin-top: 50px;
+  }
+
   
