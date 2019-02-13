@@ -69,6 +69,12 @@ section h2 {
   font-size: 2.25rem;
   line-height: 2rem;
 }
+#profileimg {
+  height: 50%;
+  width: 50%;
+  border-radius: 50%;
+  
+}
 
 
 @media (min-width: 992px) {
